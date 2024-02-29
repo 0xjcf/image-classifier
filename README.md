@@ -1,2 +1,1 @@
-# world-of-wings
-mobile AI classifier for birds
+# AI Image Classifier
